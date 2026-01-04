@@ -12,7 +12,7 @@ Create Table Clientes(
 Pedidos
 
 CREATE TABLE pedidos (
-    idpedido VARCHAR(50) PRIMARY KEY, -- Aqui você insere o hash 'e481f5...' direto
+    idpedido VARCHAR(50) PRIMARY KEY, 
     idclientepedido VARCHAR(50),
     status VARCHAR(20),
     data_compra TIMESTAMP,
