@@ -20,5 +20,6 @@ Os dados utilizados foram extraídos de um dataset público da **Olist** dispon�
 * **Desempenho Financeiro:** O faturamento total acumulado foi de **R$ 16,01 Milhões**, com um **Ticket Médio de R$ 160,99**.
 * **Logística e Pagamento:** A categoria de "Cama, Mesa e Banho" lidera as vendas, e o Cartão de Crédito é o método de pagamento preferido, representando a grande maioria das transações.
 
+## 📸 Visualização do Dashboard
 
-![Dashboard] (C:\Users\gabri\OneDrive\Pictures\Screenshots\dashboard_ecommerce)
+![Dashboard] (C:\Users\gabri\OneDrive\Pictures\Screenshots\dashboard_ecommerce.png)
